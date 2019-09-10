@@ -1,0 +1,1 @@
+prompt("votre prénom","reponce" )
